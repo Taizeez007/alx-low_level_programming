@@ -1,0 +1,1 @@
+This project is meant to understand concept of c programming language and how to use them in the linux environment
